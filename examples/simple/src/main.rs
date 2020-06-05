@@ -26,7 +26,7 @@ impl ArenaAllocator for VideoFrame {
     }
 }
 
-//#[arena]
+//#[slabify]
 #[derive(Default,Debug)]
 struct VideoFrame {
 }

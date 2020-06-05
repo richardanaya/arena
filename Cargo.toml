@@ -1,9 +1,9 @@
 [package]
-name = "arena"
+name = "slabify"
 version = "0.0.0"
 authors = ["Richard <Richard>"]
 edition = "2018"
-description = "A macro for create arenas of structs"
+description = "A macro for create slabs of structs"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/richardanaya/arena"
 readme="README.md"
